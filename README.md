@@ -109,7 +109,7 @@ The project documentation reports successful implementation and testing of the f
 
 The complete academic project report is available here:
 
-"View Complete Project Documentation (PDF)" (SOCIALECHO_PROJECT_DOCUMENTATION.pdf)
+"[View Complete Project Documentation (PDF)](SOCIALECHO_PROJECT_DOCUMENTATION.pdf)
 
 🎓 Project Information
 
